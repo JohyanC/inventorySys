@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tzjmkx4vBpeL37kAb8q5gbAyalXhqTlP+t+5XBXkn8T4Ggajlq+c+4cgL5Zk2tI1n5h5FU2TbU0fy6znf9PdtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johya\\Source\\Repos\\inventorySys\\InventorySys\\InventorySys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
